@@ -1,0 +1,137 @@
+@charset "utf-8";
+
+body{
+    width: 1000px;
+    margin: auto;
+    background-color: #F4F4F4;
+}
+
+#header{
+    margin: auto;
+    margin-top: 10px;
+    background-color: #DDDDDD;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#container{
+    margin-top: 5px;
+    width: 600px;
+    position: absolute;
+}
+
+.block{
+    width: 180px;
+    height: 250px;
+    float: left;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.img{
+    width: 170px;
+    height: 145px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 4px;
+}
+
+#inp{
+    text-align: center;
+}
+.name{
+    font-weight: bold;
+    margin: 5px;
+}
+
+.id{
+    position: relative;
+    width: 50px;
+    border-radius: 2px;
+    margin: auto;
+    margin-bottom: 5px;
+
+}
+
+.typ{
+    float: left;
+    margin-left: 25px;
+    margin-top: 5px;
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align:center;
+}
+
+#informer{
+    width: 250px;
+    margin-left: 680px;
+    margin-top: 150px;
+    border-radius: 5px;
+}
+
+#informername{
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#informerid {
+    text-align: center;
+    position: relative;
+    width: 50px;
+
+    border-radius: 2px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+#informerimage{
+    width: 170px;
+    height: 145px;
+
+    border-radius: 5px;
+
+    margin: auto;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.intype{
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align:center;
+}
+
+table{
+    text-align: center;
+    margin: 5px;
+    width: 240px;
+    border-radius: 0 0 3px 3px;
+    border: 1px solid black;
+}
+
+.column{
+    width: 110px;
+}
+
+.submit{
+    width: 577px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #008CFF;
+    color: white;
+    font-weight: bold;
+    font-size: 14pt;
+}
