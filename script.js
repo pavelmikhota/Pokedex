@@ -1,3 +1,10 @@
+/*
+Script for Poke API
+
+POKEDEX by Pavel Mikhota
+
+*/
+
 var n = 0;
 function NewLoad(){
     request = new XMLHttpRequest();
